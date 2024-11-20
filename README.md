@@ -1,2 +1,2 @@
-# ETSystem
-Expenses Tracking System
+# Expenses Tracking System
+The **Expenses Tracking System** is a user-friendly web application designed to help individuals effectively manage their finances. Developed using PHP, MySQL, and Bootstrap, the system allows users to track income and expenses, categorize spending, monitor cash flow, and set financial goals. It features tools for setting spending limits, generating financial reports, and providing reminders for upcoming bills. This project emphasizes precision in financial calculations, real-time balance updates, and an intuitive interface for seamless user interaction, ensuring users gain a comprehensive understanding of their financial situation and habits.
